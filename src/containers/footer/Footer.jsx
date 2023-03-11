@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className="gpt3__footer section__padding">
       <div className="gpt3__footer-heading">
-        <h1 className="gradient__text">Do you want to ste in to the future before others?</h1>
+        <h1 className="gradient__text">Do you want to step in to the future before others?</h1>
       </div>
       <div className="gpt3__footer-button">
         <p>Request Early Access</p>
@@ -37,7 +37,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="gpt3__footer-copyright">
-        <p>@2023 Jakub Cerovsky | Webpage built following tutorial by <a href="https://www.youtube.com/watch?v=F627pKNUCVQ&t=7902s&ab_channel=JavaScriptMastery" target="_blank">JavaScript Mastery</a></p>
+        <p>@2023 Jakub Cerovsky | Webpage built following tutorial by <a href="https://www.youtube.com/watch?v=F627pKNUCVQ&t=7902s&ab_channel=JavaScriptMastery" target="_blank" rel="noopener noreferrer"g>JavaScript Mastery</a></p>
       </div>
     </div>
   )
